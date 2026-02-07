@@ -1,0 +1,12 @@
+# Ignore the frontend folder
+frontend/
+
+# Ignore the build scripts
+src/sentiment_analysis_api/build_model.py
+
+# Ignore other common junk
+__pycache__/
+*.pyc
+.git/
+.venv/
+.env
